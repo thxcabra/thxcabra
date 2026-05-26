@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Cabral! ⚡</h1>
+<h1 align="center">Sup, I'm Cabral! ⚡</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
