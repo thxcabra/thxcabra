@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-I'm a software engineer and independent game dev from Santa Catarina, Brazil, and I love building digital products from scratch. I look beyond the "just works" mantra: I aim to build something stable, make it look good, and get it in front of people to use or play. Today I'm an Intelligence Engineer at <a href="https://www.moicdigital.com">MOIC Digital</a>, using AI as a core tool to ship automations and products end to end.
+I'm a software engineer and independent game dev from Santa Catarina, Brazil, and I love building digital products from scratch. I look beyond the "just works" mantra: I aim to build something stable, make it look good, and get it in front of people to use or play.
 </p>
 
 <p align="center">
