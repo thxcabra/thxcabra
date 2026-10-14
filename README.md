@@ -1,25 +1,31 @@
-<h1 align="center">Sup, I'm Cabral! ⚡</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Software+Engineer+%26+Indie+Game+Dev;AI+%26+Data+Automation;Digital+Designer+%7C+UI%2FUX;Building+digital+products+from+scratch." alt="Software Engineer & Indie Game Dev · AI & Data Automation · Digital Designer" />
-  </a>
+  <img src="assets/banner.svg" width="100%" alt="João Cabral · Software Engineer · AI & Data Automation · Game Dev" />
 </p>
+
+<h1 align="center">Sup, I'm Cabral! ⚡</h1>
 
 <p align="center">
 I'm a software engineer and independent game dev from Santa Catarina, Brazil, and I love building digital products from scratch. I look beyond the "just works" mantra: I aim to build something stable, make it look good, and get it in front of people to use or play.
 </p>
 
 <p align="center">
+  <a href="https://thxcabra.github.io/portfolio/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/joao-cabral-machado/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:joaovcabralm@hotmail.com"><b>joaovcabralm@hotmail.com</b></a>
+</p>
+
+---
+
+### 🎮 My portfolio is also a game
+
+<p align="center">
   <a href="https://thxcabra.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-play%20it-00FF99?style=for-the-badge&logo=gamebanana&logoColor=black" alt="Portfolio" />
+    <img src="assets/gba.png" width="480" alt="The portfolio running in a GBA: Red walks to the PC, the Box opens with the projects as Pokémon, and PITCHIQ (an Alakazam) joins the team" />
   </a>
-  <a href="https://www.linkedin.com/in/joao-cabral-machado/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:joaovcabralm@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+</p>
+
+<p align="center">
+A Pokémon FireRed Pokémon Center inside a Game Boy Advance, rebuilt in the browser: the projects are Pokémon in the PC's Box, the Nurse heals your team, the trainer card is my CV. Numbers taken from the game's decompilation, music synthesized from the game's own data. <a href="https://thxcabra.github.io/portfolio/">Play it</a>.
 </p>
 
 ---
@@ -37,7 +43,7 @@ I'm a software engineer and independent game dev from Santa Catarina, Brazil, an
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Pokémon Center portfolio**](https://thxcabra.github.io/portfolio/) | This portfolio as a game: a Pokémon FireRed Pokémon Center inside a Game Boy Advance, rebuilt in the browser with numbers taken from the game's decompilation, music synthesized from the game's own data, and a [simple view](https://thxcabra.github.io/portfolio/#/simples) for a quick read ([code](https://github.com/thxcabra/portfolio)). | JavaScript · HTML/CSS · Python asset pipeline |
+| [**Pokémon Center portfolio**](https://thxcabra.github.io/portfolio/) | This portfolio as a game: a Pokémon FireRed Pokémon Center inside a Game Boy Advance, rebuilt in the browser with numbers taken from the game's decompilation and music synthesized from the game's own data, plus a landing page in its own collage style for a quick read ([code](https://github.com/thxcabra/portfolio)). | JavaScript · HTML/CSS · WebGL · Python asset pipeline |
 | [**PitchIQ**](https://github.com/thxcabra/PitchIQ) | Football analytics for the 2025-26 European season: player, team and competition profiles, head-to-head comparison and a bilingual "Ask PitchIQ" chat where the LLM only reads the question and the numbers come from deterministic code. | Python · FastAPI · React · TypeScript · Gemini · Docker |
 | [**Magnifyer Glass**](https://github.com/thxcabra/Magnifyer-Glass) | An NBA site: live scores, box scores, play-by-play, standings, playoff bracket, team and player pages and a play-style "archetype" classifier. | Next.js · React · FastAPI · Supabase · scikit-learn |
 | [**Replai**](https://github.com/thxcabra/replai) | A Chrome extension that finds the X and LinkedIn conversations worth replying to and drafts replies in the brand's own voice. | TypeScript · Preact · Supabase · Gemini · Anthropic |
@@ -50,39 +56,7 @@ I'm a software engineer and independent game dev from Santa Catarina, Brazil, an
 ### 🛠 Tech stack
 
 <p align="center">
-  <b>Languages & core</b><br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<p align="center">
-  <b>Web & data</b><br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<p align="center">
-  <b>Game dev & design</b><br>
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/blender-%23ea7609.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Aseprite-%23FFFFFF.svg?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite" />
-</p>
-
-<p align="center">
-  <b>AI & automation</b><br>
-  <img src="https://img.shields.io/badge/LLMs-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Data%20Pipelines-%2300599C.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="Data pipelines" />
+  <img src="assets/stack.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, C#, Git. Web and data: React, Next.js, FastAPI, Supabase, Google Cloud, BigQuery, Docker. Games and design: Unity, Figma, Blender, Photoshop, Aseprite. AI and automation: LLMs, Gemini, Anthropic, data pipelines." />
 </p>
 
 ---
@@ -90,3 +64,5 @@ I'm a software engineer and independent game dev from Santa Catarina, Brazil, an
 <p align="center">
   <i>Always open to talking with teams and people who are making interesting things. Feel free to reach out.</i>
 </p>
+
+<sub>The art on this page is drawn from code (<code>tools/art.py</code>): the shapes and the low poly piece are SVG, the text is the Unbounded and JetBrains Mono fonts turned into paths, and the pixel Pikachu and the GBA recording come from the portfolio itself.</sub>
