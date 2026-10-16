@@ -23,13 +23,13 @@ People have called me Cabral since school. That turned into Cabra, which is Port
 ### My portfolio is also a game
 
 <p align="center">
-  <a href="https://thxcabra.github.io/portfolio/">
+  <a href="https://thxcabra.github.io/portfolio/jogar">
     <img src="assets/gba.png" width="480" alt="The portfolio running in a GBA: Red walks to the PC, the Box opens with the projects as Pokémon, and PITCHIQ (an Alakazam) joins the team" />
   </a>
 </p>
 
 <p align="center">
-A Pokémon FireRed Pokémon Center inside a Game Boy Advance, rebuilt in the browser: the projects are Pokémon in the PC's Box, the Nurse heals your team, the trainer card is my CV. Numbers taken from the game's decompilation, music synthesized from the game's own data. <a href="https://thxcabra.github.io/portfolio/">Play it</a>.
+A Pokémon FireRed Pokémon Center inside a Game Boy Advance, rebuilt in the browser: the projects are Pokémon in the PC's Box, the Nurse heals your team, the trainer card is my CV. Numbers taken from the game's decompilation, music synthesized from the game's own data. <a href="https://thxcabra.github.io/portfolio/jogar">Play it</a>.
 </p>
 
 ### What I do
@@ -42,7 +42,7 @@ I'm an Intelligence Engineer at MOIC Digital: I build automations and AI product
 |---|---|---|
 | [**Magnifyer Glass**](https://github.com/thxcabra/Magnifyer-Glass) | An NBA site: live scores, box scores, play-by-play, standings, playoff bracket, team and player pages and a play-style "archetype" classifier. | Next.js · React · FastAPI · Supabase · scikit-learn |
 | [**PitchIQ**](https://github.com/thxcabra/PitchIQ) | Football analytics for the 2025-26 European season: player, team and competition profiles, head-to-head comparison and a bilingual "Ask PitchIQ" chat where the LLM only reads the question and the numbers come from deterministic code. | Python · FastAPI · React · TypeScript · Gemini · Docker |
-| [**Pokémon Center portfolio**](https://thxcabra.github.io/portfolio/) | This portfolio as a game: a Pokémon FireRed Pokémon Center inside a Game Boy Advance, rebuilt in the browser with numbers taken from the game's decompilation and music synthesized from the game's own data, plus a landing page with my goat, a PS1-style VHS tape in 3D and a few secrets ([code](https://github.com/thxcabra/portfolio)). | JavaScript · HTML/CSS · WebGL · Python asset pipeline |
+| [**Portfolio**](https://thxcabra.github.io/portfolio/) | My portfolio in two parts: a main page with my drawings, an RPG skill sheet with a d20, PS1-style low poly pieces and a few secrets, and [a game](https://thxcabra.github.io/portfolio/jogar), a Pokémon FireRed Pokémon Center inside a Game Boy Advance, rebuilt in the browser with numbers taken from the game's decompilation and music synthesized from the game's own data ([code](https://github.com/thxcabra/portfolio)). | JavaScript · HTML/CSS · three.js · Python asset pipeline |
 | [**Replai**](https://github.com/thxcabra/replai) | A Chrome extension that finds the X and LinkedIn conversations worth replying to and drafts replies in the brand's own voice. | TypeScript · Preact · Supabase · Gemini · Anthropic |
 | [**CallSync**](https://github.com/thxcabra/CallSync) | Upload a sales call (audio or transcript) and get a structured analysis (summary, sentiment, tasks, feedback) synced to Notion. | TypeScript · Express · React · Gemini · Supabase · Notion API |
 | [**Furioso-Bot**](https://github.com/thxcabra/Furioso-Bot) | A Telegram bot that answers like a FURIA Esports fan, with a classify → search → reply LLM pipeline over trusted sources. | Python · python-telegram-bot · OpenRouter · Tavily |
