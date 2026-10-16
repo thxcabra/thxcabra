@@ -5,7 +5,7 @@
 <h1 align="center">Sup, I'm Cabral! ⚡</h1>
 
 <p align="center">
-I'm a software engineer and independent game dev from Santa Catarina, Brazil, and I love building digital products from scratch. I look beyond the "just works" mantra: I aim to build something stable, make it look good, and get it in front of people to use or play.
+I'm a software engineer from Santa Catarina, Brazil, working with AI and data automation. I like building things from scratch, making them look good and putting them in front of people to use or play.
 </p>
 
 <p align="center">
@@ -34,10 +34,7 @@ A Pokémon FireRed Pokémon Center inside a Game Boy Advance, rebuilt in the bro
 
 ### What I do
 
-* **Software engineering & game dev:** C#, Python and TypeScript to build systems, mechanics and products that are ready to ship.
-* **AI & data automation:** LLM-powered tools, data pipelines and API integrations that cut out manual work.
-* **Digital design:** UI/UX, branding and 2D/3D assets that make sense and look professional.
-* **Product strategy:** a marketing background in Web3 to read an audience and position a product for launch.
+I'm an Intelligence Engineer at MOIC Digital: I build automations and AI products, internal and for clients, and take each one from the problem to production. Most of my code is Python and TypeScript, with C# and Unity for games. Before that I ran social media for Web3 clients, so I also know how to read an audience and launch a product. And I design: UI, branding, pixel art and low poly.
 
 ### Featured projects
 
@@ -49,21 +46,24 @@ A Pokémon FireRed Pokémon Center inside a Game Boy Advance, rebuilt in the bro
 | [**Replai**](https://github.com/thxcabra/replai) | A Chrome extension that finds the X and LinkedIn conversations worth replying to and drafts replies in the brand's own voice. | TypeScript · Preact · Supabase · Gemini · Anthropic |
 | [**CallSync**](https://github.com/thxcabra/CallSync) | Upload a sales call (audio or transcript) and get a structured analysis (summary, sentiment, tasks, feedback) synced to Notion. | TypeScript · Express · React · Gemini · Supabase · Notion API |
 | [**Furioso-Bot**](https://github.com/thxcabra/Furioso-Bot) | A Telegram bot that answers like a FURIA Esports fan, with a classify → search → reply LLM pipeline over trusted sources. | Python · python-telegram-bot · OpenRouter · Tavily |
-| [**MOIC Digital website**](https://www.moicdigital.com) | The agency's website: content-driven pages and blog, SEO, lead forms straight into the CRM, deployed on the edge with a staging → production review flow. | Cloudflare Workers · CRM integration · SEO |
+| [**MOIC Digital website**](https://www.moicdigital.com) | The agency's website: content-driven pages and blog, SEO, lead forms straight into the CRM, deployed on the edge with a staging → production review flow. | Astro · HTML · Cloudflare · CRM |
 
 ### Games that made me
 
 | Game | Why |
 |---|---|
-| **Disco Elysium** | Narrative, unusual mechanics, story and investigation. |
-| **Until Then** | Narrative, beautiful art, a gripping story and choices. |
-| **Far Cry 4** | Setting, choices, gameplay, freedom and a killer villain. |
-| **Hotline Miami** | Look, story, gameplay and music. |
+| [**Disco Elysium**](https://store.steampowered.com/app/632470/) | Narrative, investigation and unusual mechanics. |
+| [**Until Then**](https://store.steampowered.com/app/1574820/) | Beautiful art and a story that hooks you. |
+| [**Far Cry 4**](https://store.steampowered.com/app/298110/) | Choices, freedom and a killer villain. |
+| [**Hotline Miami**](https://store.steampowered.com/app/219150/) | An insane look and soundtrack. |
 
-### Right now
+### Games I recommend
 
-**Playing:** Disco Elysium, Skyrim, Eldest Souls, Universe for Sale<br>
-**On repeat:** NOG, Matuê, BK, J. Cole, Tchelo, LPT Zlatan, Jotapê
+[Skyrim](https://store.steampowered.com/app/489830/) · [Eldest Souls](https://store.steampowered.com/app/1108590/) · [Universe for Sale](https://store.steampowered.com/app/1627840/)
+
+### On repeat
+
+Charlie Brown Jr., The Offspring and Green Day (my favourite bands), Rage Against the Machine, System of a Down, Twenty One Pilots, OutKast, Michael Jackson, Djavan, Jorge Vercillo. And rap: NOG, Matuê, BK, J. Cole, Tchelo, LPT Zlatan, Jotapê.
 
 ### Rabbit holes
 
@@ -82,7 +82,7 @@ Pokémon cards, manga, comics, and football and basketball jerseys.
 ---
 
 <p align="center">
-  <i>Always open to talking with teams and people who are making interesting things. Feel free to reach out.</i>
+  <i>I want to work in game production, and I really like projects that mix sports and data. If you're making either, my email is up top.</i>
 </p>
 
 <sub>The goat is my own pixel art. The banner and the stack are drawn from code (<code>tools/art.py</code>) in my portfolio's colours, and the GBA recording comes from the portfolio itself.</sub>
