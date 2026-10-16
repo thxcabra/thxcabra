@@ -76,7 +76,7 @@ Pokémon cards, manga, comics, and football and basketball jerseys.
 ### Tech stack
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, C#, Git. Web and data: React, Next.js, FastAPI, Supabase, Google Cloud, BigQuery, Docker. Games and design: Unity, Figma, Blender, Photoshop, Aseprite. AI and automation: LLMs, Gemini, Anthropic, data pipelines." />
+  <img src="assets/stack.svg" width="100%" alt="Languages: Python, TypeScript, JavaScript, C#, Git. Web and data: React, Next.js, FastAPI, Supabase, Google Cloud, BigQuery, Docker. Games and design: Unity, GameMaker, Blender, Blockbench, Aseprite, Photoshop, Figma. AI and automation: LLMs, Gemini, Anthropic, data pipelines." />
 </p>
 
 ---

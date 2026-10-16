@@ -128,7 +128,7 @@ def banner(display, vt, goat):
 STACK = [
     ('languages', ['PYTHON', 'TYPESCRIPT', 'JAVASCRIPT', 'C#', 'GIT']),
     ('web & data', ['REACT', 'NEXT.JS', 'FASTAPI', 'SUPABASE', 'GOOGLE CLOUD', 'BIGQUERY', 'DOCKER']),
-    ('games & design', ['UNITY', 'FIGMA', 'BLENDER', 'PHOTOSHOP', 'ASEPRITE']),
+    ('games & design', ['UNITY', 'GAMEMAKER', 'BLENDER', 'BLOCKBENCH', 'ASEPRITE', 'PHOTOSHOP', 'FIGMA']),
     ('ai & automation', ['LLMS', 'GEMINI', 'ANTHROPIC', 'DATA PIPELINES']),
 ]
 CHIP = [(ORANGE, INK), (PURPLE, PAPER), (GREEN, INK), (PAPER, INK)]
